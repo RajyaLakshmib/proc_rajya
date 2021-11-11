@@ -40,7 +40,7 @@ exports.config={
     // browserstackUser:"rajyalakshmi",
     // browserstackKey:"FZ8nyvtp5xQ7JY8ALnU8",
     browserstackUser:"prabhjotkaur4",
-    browserstackKey:"MQpW8a8GKULuKsGQaTsH",
+    browserstackKey:"MQpW18a8GKULuKsGQaTsH",
     onPrepare(){
         require('ts-node').register({
             project:'tsconfig.json'
