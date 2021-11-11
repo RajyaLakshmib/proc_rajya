@@ -1,0 +1,23 @@
+{
+  "name": "proc_rajya",
+  "version": "1.0.0",
+  "description": "proc",
+  "main": "conf.js",
+  "dependencies": {
+    "jasmine": "^3.9.0"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^3.9.0",
+    "@types/node": "^16.7.10",
+    "protractor": "^7.0.0",
+    "protractor-beautiful-reporter": "^1.3.6",
+    "ts-node": "^10.2.1",
+    "typescript": "^4.4.2"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "testee2": "protractor conf.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
